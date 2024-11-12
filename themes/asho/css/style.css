@@ -51,16 +51,9 @@ body {
     justify-content: space-between;
 }
 
-.nav li:first-of-type {
-    background-color: purple;
-}
-
-.nav li:last-of-type {
-    background-color: brown;
-}
-
 .nav li:hover {
-    background-color: green;
+    color: #fff8f0ff;
+    background-color: #9e2b25ff;
 }
 
 
