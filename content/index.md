@@ -1,5 +1,5 @@
 ---
-Title: Home
+Title: Åsa Holstein
 Description: This is our index page.
 ---
 
